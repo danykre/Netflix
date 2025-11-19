@@ -1,25 +1,25 @@
-# 📊 Proyecto: Netflix - SQL
+# 🎬 Proyecto: Análisis de Netflix con SQL
 
-Este repositorio contiene el proyecto final del curso de **SQL** dictado por **Coderhouse**, basado en el análisis de un dataset de **Netflix**. El objetivo principal es aplicar y demostrar los conocimientos adquiridos en el diseño, desarrollo y consulta de bases de datos relacionales utilizando **MySQL**.
+Este repositorio reúne el proyecto final del curso de SQL de Coderhouse, desarrollado a partir del análisis de un dataset de Netflix. El objetivo es mostrar la aplicación práctica de conceptos clave en la creación y consulta de bases de datos relacionales utilizando MySQL.
 
 ---
 
 ## 📁 Contenido del repositorio
 
-- **📦 Creación de la base de datos y tablas**  
-  Script SQL para definir la estructura de las tablas y sus relaciones.
+**📦 Estructura de la base de datos**  
+Scripts SQL para crear la base, definir tablas y establecer relaciones.
 
-- **📥 Inserción de datos**  
-  Script SQL con los datos utilizados para poblar la base de datos.
+**📥 Inserción de datos**  
+Archivos con las sentencias necesarias para poblar las tablas con el dataset.
 
-- **⚙️ Vistas, funciones, procedimientos almacenados y triggers**  
-  Implementaciones avanzadas para optimizar la consulta y manipulación de datos.
+**⚙️ Vistas, funciones, procedimientos y triggers**  
+Componentes avanzados que permiten optimizar consultas y automatizar procesos.
 
-- **📝 Documentación**  
-  Archivo en formato PDF detallando el proceso de desarrollo, decisiones técnicas y estructura general del proyecto.
+**📝 Documentación del proyecto**  
+PDF con el desarrollo completo, decisiones técnicas y descripción general del modelo.
 
-- **🎬 Dataset de Netflix**  
-  Conjunto de datos utilizado para poblar la base de datos. Incluye archivo `.xls`.
+**🎬 Dataset de Netflix**  
+Archivo .xls utilizado como fuente de datos.
 
-- **🧩 Diagramas Entidad-Relación (ER)**  
-  Archivos generados con **Draw.io** y **MySQL Workbench**, que muestran gráficamente el modelo de datos.
+**🧩 Diagramas Entidad-Relación (ER)**  
+Modelos generados en Draw.io y MySQL Workbench que representan la estructura de la base.
